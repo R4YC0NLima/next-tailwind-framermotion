@@ -1,3 +1,3 @@
 # Workshop - Next.js & TailwindCSS & Framer Motion
 
-We'll build a lightweight, animated & responsive small website.
+Esse template será um projeto base para usar o framework Vue, porém o uso do framermotion não será possível.
